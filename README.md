@@ -30,4 +30,8 @@ Neel Nanda - https://youtu.be/dsjUDacBw8o?t=129
 
 > "I've always been somebody that doesn't want to build stuff on lots of big computers because most people don't have lots of big computers and I hate creating stuff that most people can't use."
 
-Jeremy Howard - https://youtu.be/5Sze3kHAZqE?t=1257 
+Jeremy Howard - https://youtu.be/5Sze3kHAZqE?t=1257
+
+> "Throw away the idea of fine-tuning, there's no such thing, it's only continued pre-training (you need to keep including examples of everything you care about to prevent carastrophic forgetting)."
+
+Jeremy Howard - https://youtu.be/5Sze3kHAZqE?t=2732
