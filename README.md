@@ -35,3 +35,7 @@ Jeremy Howard - https://youtu.be/5Sze3kHAZqE?t=1257
 > "Throw away the idea of fine-tuning, there's no such thing, it's only continued pre-training (you need to keep including examples of everything you care about to prevent carastrophic forgetting)."
 
 Jeremy Howard - https://youtu.be/5Sze3kHAZqE?t=2732
+
+> "I’ve taken to imagining deep RL as a demon that’s deliberately misinterpreting your reward and actively searching for the laziest possible local optima."
+
+Alexirpan - https://www.alexirpan.com/2018/02/14/rl-hard.html
