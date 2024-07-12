@@ -40,6 +40,10 @@ Jeremy Howard - https://youtu.be/5Sze3kHAZqE?t=2732
 
 Alexirpan - https://www.alexirpan.com/2018/02/14/rl-hard.html
 
+> "(in the context of emulating humans) assuming that the observable universe is void of extraterrestrial civilizations, then what hangs in the balance is at least 1e58 human lives, though the true number is probably larger. If we represent all the happiness experienced during one entire such life with a single teardrop of joy, then the happiness of these souls could fill and refill the Earth’s oceans every second, and keep doing so for a hundred billion billion millennia. It is really important that we make sure these truly are tears of joy."
+
+Nick Bostrom - https://www.goodreads.com/book/show/20527133-superintelligence
+
 > "Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything and the immaturity of our conduct. Superintelligence is a challenge for which we are not ready now and will not be ready for a long time. We have little idea when the detonation will occur, though if we hold the decide to our ear we can hear a faint ticking sound."
 
 Nick Bostrom - https://www.goodreads.com/book/show/20527133-superintelligence
