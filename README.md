@@ -51,3 +51,7 @@ Nick Bostrom - https://www.goodreads.com/book/show/20527133-superintelligence
 > "As soon as it works, no one calls it AI any more."
 
 John McCarthy
+
+> "I'm starting to put some small amount of probability on the possibility that we get fairly advanced AI that don't run out and build more advanced AI because they can't solve the alignment problem either [...]"
+
+Eliezer Yudkowsky - https://youtu.be/3_YX6AgxxYw?t=2745
