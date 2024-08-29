@@ -55,3 +55,7 @@ John McCarthy
 > "I'm starting to put some small amount of probability on the possibility that we get fairly advanced AI that don't run out and build more advanced AI because they can't solve the alignment problem either [...]"
 
 Eliezer Yudkowsky - https://youtu.be/3_YX6AgxxYw?t=2745
+
+> "ML is the science of data compression, plus the science of selecting actions that lead to data that you can compress in a way that you didn't know, but you can learn"
+
+Jürgen Schmidhuber - https://youtu.be/DP454c1K_vQ?t=3892
