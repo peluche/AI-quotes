@@ -59,3 +59,7 @@ Eliezer Yudkowsky - https://youtu.be/3_YX6AgxxYw?t=2745
 > "ML is the science of data compression, plus the science of selecting actions that lead to data that you can compress in a way that you didn't know, but you can learn"
 
 Jürgen Schmidhuber - https://youtu.be/DP454c1K_vQ?t=3892
+
+> "If you want to solve AGI you basically have to work on reinforcement learning. When there's no teacher, when the system itself explores the world and learns how it works and then learns to solve all kinds of problems without human feedback"
+
+Jürgen Schmidhuber - https://youtu.be/DP454c1K_vQ?t=5739
