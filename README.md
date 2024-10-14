@@ -44,7 +44,7 @@ Alexirpan - https://www.alexirpan.com/2018/02/14/rl-hard.html
 
 Nick Bostrom - https://www.goodreads.com/book/show/20527133-superintelligence
 
-> "Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything and the immaturity of our conduct. Superintelligence is a challenge for which we are not ready now and will not be ready for a long time. We have little idea when the detonation will occur, though if we hold the decide to our ear we can hear a faint ticking sound."
+> "Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything and the immaturity of our conduct. Superintelligence is a challenge for which we are not ready now and will not be ready for a long time. We have little idea when the detonation will occur, though if we hold the device to our ear we can hear a faint ticking sound."
 
 Nick Bostrom - https://www.goodreads.com/book/show/20527133-superintelligence
 
